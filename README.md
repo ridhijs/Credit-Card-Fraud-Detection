@@ -33,3 +33,4 @@ The number of neighbors considered, (parameter n_neighbors) is typically chosen 
 ## Support Vector Machine
 Support Vector Machine is an unsupervised learning algorithm that is trained only on the ‘normal’ data, in our case the negative examples. It learns the boundaries of these points and is therefore able to classify any points that lie outside the boundary as, you guessed it, outliers.
 
+Done by Ridhi Shah
